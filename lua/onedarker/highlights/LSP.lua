@@ -49,7 +49,7 @@ local LSP = {
   TelescopePromptPrefix = { fg = C.purple },
   NvimTreeFolderIcon = { fg = C.blue },
   NvimTreeIndentMarker = { fg = C.gray },
-  NvimTreeNormal = { fg = C.light_gray, bg = C.alt_bg },
+  NvimTreeNormal = { fg = C.light_gray, bg = C.none },
   NvimTreeVertSplit = { fg = C.alt_bg, bg = C.alt_bg },
   NvimTreeFolderName = { fg = C.blue },
   NvimTreeOpenedFolderName = { fg = C.cyan, style = "italic" },
