@@ -25,7 +25,7 @@ local common = {
   FloatBorder = { fg = C.gray, bg = C.none },
   Whitespace = { fg = C.gray },
   VertSplit = { fg = C.bg, bg = C.none, style=C.none },
-  CursorLine = { bg = C.none },
+  CursorLine = { bg = C.dark },
   CursorColumn = { bg = C.dark },
   ColorColumn = { bg = C.dark },
   NormalFloat = { bg = C.none },
